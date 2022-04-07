@@ -10,3 +10,6 @@
 
   1. Transcribing notes into Notion for easy referencing
   2. Reaching out to people more to build a network
+
+  ## Shoutouts
+  - Nicholas L. and Carissa G. where great to work with in the breakout rooms 
