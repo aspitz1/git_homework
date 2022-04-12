@@ -6,8 +6,6 @@
 - Scheduling on a granular level important for ensuring all homework
   will get done, as well as self care tasks.
 
-- If you get stuck maybe it's time for some new docs to reference
-
   ## New Strategies to Try
 
   1. Transcribing notes into Notion for easy referencing
